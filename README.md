@@ -1,5 +1,5 @@
 <h1 align="center">MD ZAHIRUL ISLAM</h1>
-<h3 align="center">Full Stack Developer | Go, Node.js, Next.js, Vue.js &amp; React Native</h3>
+<h3 align="center">Full Stack Developer | Go, Node.js, Next.js, Vue.js, PHP, MySQL &amp; React Native</h3>
 
 <p align="center">
   <a href="https://shanto.top">Portfolio</a> ·
@@ -17,9 +17,9 @@
 
 ## About Me
 
-I build production-ready web apps, backend APIs, dashboards, and mobile apps. My recent work includes Go + Vue.js products, Node.js/Next.js platforms, API backends, and Expo React Native mobile apps.
+I build production-ready web apps, backend APIs, dashboards, and mobile apps. My work includes Go + Vue.js products, Node.js/Next.js platforms, PHP + MySQL applications, API backends, and Expo React Native mobile apps.
 
-- Working with: **Go, Node.js, Next.js, Vue.js, React Native, TypeScript**
+- Working with: **Go, Node.js, Next.js, Vue.js, PHP, MySQL, React Native, TypeScript**
 - Backend focus: **REST APIs, authentication, dashboards, integrations, scalable service logic**
 - Frontend focus: **Next.js, Vue.js, responsive UI, admin panels, product websites**
 - Mobile focus: **Expo React Native apps with WebView, downloads, theme settings, and native builds**
@@ -31,7 +31,7 @@ I build production-ready web apps, backend APIs, dashboards, and mobile apps. My
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,nextjs,vue,react,ts,js,express,mongodb,postgres,docker,nginx,linux,git,github,vscode,html,css,tailwind" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,nextjs,vue,php,mysql,react,ts,js,express,mongodb,postgres,docker,nginx,linux,git,github,vscode,html,css,tailwind" alt="Tech stack" />
 </p>
 
 ---
