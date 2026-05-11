@@ -54,10 +54,7 @@ I build production-ready web apps, backend APIs, dashboards, and mobile apps. My
 | Repository | Stack / Language | Notes |
 | --- | --- | --- |
 | [BloodDonation](https://github.com/iamSH4NTO/BloodDonation) | Vue, Go, Docker | Open-source blood donation platform |
-| [amar-pathagar-frontend](https://github.com/iamSH4NTO/amar-pathagar-frontend) | TypeScript, CSS, Docker | Library management frontend |
 | [CircleNetwork](https://github.com/iamSH4NTO/CircleNetwork) | TypeScript, Expo React Native | Mobile app with WebViews, file downloads, theme settings, and splash screen |
-| [SHANTO](https://github.com/iamSH4NTO/SHANTO) | HTML, CSS, JavaScript | Personal web work |
-| [IP-RANGES](https://github.com/iamSH4NTO/IP-RANGES) | Data / networking | IP range resources |
 
 ---
 
