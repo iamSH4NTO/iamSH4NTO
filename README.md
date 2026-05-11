@@ -61,19 +61,6 @@ I build production-ready web apps, backend APIs, dashboards, and mobile apps. My
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamSH4NTO&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSH4NTO&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamSH4NTO&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## Connect With Me
 
 <p align="left">
