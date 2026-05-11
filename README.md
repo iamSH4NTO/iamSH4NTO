@@ -40,7 +40,7 @@ I build production-ready web apps, backend APIs, dashboards, and mobile apps. My
 
 | Project | Type | Stack | Role |
 | --- | --- | --- | --- |
-| [24scan.com](https://24scan.com) | Personal product | Go, Vue.js | Built and maintained by me |
+| [24scan.com](https://24scan.com) | Personal product | Next.js (Landing), Go (Backend), Vue.js (Dashboard Frontend) | Built and maintained by me |
 | [Tipster.ma](https://tipster.ma) | Company project | Node.js, Next.js | Built by me |
 | [KickoffAPI](https://kickoffapi.com) | Company project | Node.js | Backend development |
 | [OracaleAI](https://oracaleai.com) | Company project | Node.js | Built by me |
