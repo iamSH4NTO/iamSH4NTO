@@ -44,7 +44,7 @@ I build production-ready web apps, backend APIs, dashboards, and mobile apps. My
 | [Tipster.ma](https://tipster.ma) | Company project | Node.js, Next.js | Built by me |
 | [KickoffAPI](https://kickoffapi.com) | Company project | Node.js | Backend development |
 | [OracaleAI](https://oracaleai.com) | Company project | Node.js | Built by me |
-| BloodDonation | Personal project | Go, Vue.js | Built and maintained by me |
+| [BloodDonation](https://github.com/iamSH4NTO/BloodDonation) | Personal project | Go, Vue.js | Built and maintained by me |
 | [CircleNetwork](https://github.com/iamSH4NTO/CircleNetwork) | Personal mobile app | Expo, React Native, TypeScript | Built and maintained by me |
 
 ---
@@ -53,6 +53,7 @@ I build production-ready web apps, backend APIs, dashboards, and mobile apps. My
 
 | Repository | Stack / Language | Notes |
 | --- | --- | --- |
+| [BloodDonation](https://github.com/iamSH4NTO/BloodDonation) | Vue, Go, Docker | Open-source blood donation platform |
 | [amar-pathagar-backend](https://github.com/iamSH4NTO/amar-pathagar-backend) | Go, PostgreSQL, Docker | Library management backend |
 | [amar-pathagar-frontend](https://github.com/iamSH4NTO/amar-pathagar-frontend) | TypeScript, CSS, Docker | Library management frontend |
 | [CircleNetwork](https://github.com/iamSH4NTO/CircleNetwork) | TypeScript, Expo React Native | Mobile app with WebViews, file downloads, theme settings, and splash screen |
