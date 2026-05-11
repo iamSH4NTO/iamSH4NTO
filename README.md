@@ -64,8 +64,8 @@ I build production-ready web apps, backend APIs, dashboards, and mobile apps. My
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamSH4NTO&show_icons=true&theme=transparent&hide_border=true&cache_seconds=21600" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSH4NTO&layout=compact&theme=transparent&hide_border=true&cache_seconds=21600" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamSH4NTO&show_icons=true&theme=transparent&hide_border=true&cache_seconds=21600" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamSH4NTO&layout=compact&theme=transparent&hide_border=true&cache_seconds=21600" alt="Top languages" />
 </p>
 
 <p align="center">
