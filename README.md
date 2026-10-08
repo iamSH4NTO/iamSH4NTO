@@ -48,18 +48,6 @@ I build practical software for real users: product landing pages, web dashboards
 
 ---
 
-## Live in Production
-
-### SKF Duty Calculator
-
-<a href="https://play.google.com/store/apps/details?id=com.skf.duty"><img src="https://img.shields.io/badge/Google%20Play-SKF%20Duty-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="SKF Duty on Google Play" /></a>
-
-SKF Duty Calculator is an employee shift and duty tracking mobile app live in production on Google Play (Business category). It handles day and night shift logging, minute-precision overtime calculations, leave management (SL/CL/PL), holiday handling, and salary earnings summaries. The app features monthly and yearly reports with charts, biometric app lock, shift reminders, and secure cloud synchronization.
-
-`React Native (Expo) · TypeScript · Cloudflare Workers · Cloudflare D1`
-
----
-
 ## Tech Stack
 
 <p align="center">
