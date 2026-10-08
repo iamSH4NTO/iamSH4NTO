@@ -1,20 +1,32 @@
-<h1 align="center">MD ZAHIRUL ISLAM</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&center=true&vCenter=true&width=760&lines=Production+Mobile+App+Developer;Full+Stack+Developer;Go+%2B+Vue.js+Product+Builder;Node.js+%2B+Next.js+Developer;PHP+%2B+MySQL+Application+Developer;Expo+React+Native+Mobile+App+Developer" alt="Typing animation" />
+  <img src="assets/header.svg" width="100%" alt="MD Zahirul Islam (@iamSH4NTO) — Senior Software Engineer" />
 </p>
 
 <p align="center">
-  <a href="https://shanto.top"><img src="https://img.shields.io/badge/Portfolio-shanto.top-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/iamsh4nto"><img src="https://img.shields.io/badge/LinkedIn-iamsh4nto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:i@shanto.top"><img src="https://img.shields.io/badge/Email-i%40shanto.top-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/8801955555905"><img src="https://img.shields.io/badge/WhatsApp-%2B8801955555905-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <img src="assets/stats.svg" width="100%" alt="Repositories · Stars · Followers · Following" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamSH4NTO&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/iamSH4NTO?label=Followers&style=flat-square" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Open%20Source-MIT-green?style=flat-square" alt="Open source" />
+  <img src="assets/repos.svg" width="100%" alt="Pinned repositories" />
+</p>
+
+<p align="center">
+  <img src="assets/contributions.svg" width="100%" alt="Contribution activity this year" />
+</p>
+
+<p align="center">
+  <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=a371f7" alt="Go" /></a>
+  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=node.js&logoColor=a371f7" alt="Node.js" /></a>
+  <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=next.js&logoColor=a371f7" alt="Next.js" /></a>
+  <a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue.js-161b22?style=flat-square&logo=vue.js&logoColor=a371f7" alt="Vue.js" /></a>
+  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=a371f7" alt="TypeScript" /></a>
+  <a href="https://reactnative.dev"><img src="https://img.shields.io/badge/React%20Native%20(Expo)-161b22?style=flat-square&logo=expo&logoColor=a371f7" alt="React Native" /></a>
+  <a href="https://workers.cloudflare.com"><img src="https://img.shields.io/badge/Cloudflare%20Workers-161b22?style=flat-square&logo=cloudflare&logoColor=a371f7" alt="Cloudflare Workers" /></a>
+  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=a371f7" alt="MySQL" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/iamSH4NTO">View activity →</a>
 </p>
 
 ---
@@ -94,19 +106,6 @@ I build practical software for real users: product landing pages, web dashboards
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamSH4NTO&show_icons=true&theme=transparent&hide_border=true&cache_seconds=21600" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamSH4NTO&layout=compact&theme=transparent&hide_border=true&cache_seconds=21600" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamSH4NTO&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## Contact
 
 <p align="center">
@@ -114,6 +113,13 @@ I build practical software for real users: product landing pages, web dashboards
   <a href="https://facebook.com/iamsh4nto"><img src="https://img.shields.io/badge/Facebook-iamsh4nto-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://linkedin.com/in/iamsh4nto"><img src="https://img.shields.io/badge/LinkedIn-iamsh4nto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:i@shanto.top"><img src="https://img.shields.io/badge/Email-i%40shanto.top-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/8801955555905"><img src="https://img.shields.io/badge/WhatsApp-%2B8801955555905-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamSH4NTO&label=Profile%20Views&color=8250df&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/iamSH4NTO?label=Followers&style=flat-square&color=8250df&labelColor=161b22" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Open%20Source-MIT-161b22?style=flat-square&logo=opensourceinitiative&logoColor=a371f7" alt="Open source" />
 </p>
 
 <p align="center">
