@@ -1,17 +1,21 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="MD Zahirul Islam (@iamSH4NTO) — Senior Software Engineer" />
+  <a href="https://iamsh4nto.github.io/"><img src="assets/header.svg" width="100%" alt="MD Zahirul Islam (@iamSH4NTO) — Senior Software Engineer" /></a>
 </p>
 
 <p align="center">
-  <img src="assets/stats.svg" width="100%" alt="Repositories · Stars · Followers · Following" />
+  <a href="https://iamsh4nto.github.io/"><strong>▸ Open the live site — iamsh4nto.github.io</strong></a>
 </p>
 
 <p align="center">
-  <img src="assets/repos.svg" width="100%" alt="Pinned repositories" />
+  <a href="https://iamsh4nto.github.io/"><img src="assets/stats.svg" width="100%" alt="Repositories · Stars · Followers · Following" /></a>
 </p>
 
 <p align="center">
-  <img src="assets/contributions.svg" width="100%" alt="Contribution activity this year" />
+  <a href="https://iamsh4nto.github.io/"><img src="assets/repos.svg" width="100%" alt="Pinned repositories" /></a>
+</p>
+
+<p align="center">
+  <a href="https://iamsh4nto.github.io/"><img src="assets/contributions.svg" width="100%" alt="Contribution activity this year" /></a>
 </p>
 
 <p align="center">
@@ -63,7 +67,7 @@ I build practical software for real users: product landing pages, web dashboards
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,nextjs,vue,php,mysql,react,ts,js,express,mongodb,postgres,cloudflare,docker,nginx,linux,git,github,vscode,html,css,tailwind" alt="Tech stack" />
+  <a href="https://iamsh4nto.github.io/"><img src="https://skillicons.dev/icons?i=go,nodejs,nextjs,vue,php,mysql,react,ts,js,express,mongodb,postgres,cloudflare,docker,nginx,linux,git,github,vscode,html,css,tailwind" alt="Tech stack" /></a>
 </p>
 
 ---
@@ -117,9 +121,9 @@ I build practical software for real users: product landing pages, web dashboards
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamSH4NTO&label=Profile%20Views&color=8250df&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/iamSH4NTO?label=Followers&style=flat-square&color=8250df&labelColor=161b22" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Open%20Source-MIT-161b22?style=flat-square&logo=opensourceinitiative&logoColor=a371f7" alt="Open source" />
+  <a href="https://github.com/iamSH4NTO"><img src="https://komarev.com/ghpvc/?username=iamSH4NTO&label=Profile%20Views&color=8250df&style=flat-square" alt="Profile views" /></a>
+  <a href="https://github.com/iamSH4NTO"><img src="https://img.shields.io/github/followers/iamSH4NTO?label=Followers&style=flat-square&color=8250df&labelColor=161b22" alt="GitHub followers" /></a>
+  <a href="https://github.com/iamSH4NTO"><img src="https://img.shields.io/badge/Open%20Source-MIT-161b22?style=flat-square&logo=opensourceinitiative&logoColor=a371f7" alt="Open source" /></a>
 </p>
 
 <p align="center">
