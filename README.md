@@ -56,11 +56,6 @@ I build practical software for real users: product landing pages, web dashboards
 
 SKF Duty Calculator is an employee shift and duty tracking mobile app live in production on Google Play (Business category). It handles day and night shift logging, minute-precision overtime calculations, leave management (SL/CL/PL), holiday handling, and salary earnings summaries. The app features monthly and yearly reports with charts, biometric app lock, shift reminders, and secure cloud synchronization.
 
-- **Minute-precision calculation engine**: Custom computation architecture with zero float drift for exact overtime and earnings calculations.
-- **Custom serverless authentication**: WebCrypto implementation featuring PBKDF2 (100k iterations) and short-lived HMAC-SHA256 JWTs with rotated refresh tokens.
-- **Cloudflare Workers & D1 backend**: Lightweight Hono REST API powered by Cloudflare D1 (SQLite) with server-side recalculations and multi-tenant user isolation (zero Firebase / zero external DB).
-- **Offline-first React Native app**: Built with Expo, TypeScript, and Zustand state management, backed by Vitest unit testing.
-
 `React Native (Expo) · TypeScript · Cloudflare Workers · Cloudflare D1`
 
 ---
