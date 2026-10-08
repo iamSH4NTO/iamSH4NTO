@@ -1,7 +1,7 @@
 <h1 align="center">MD ZAHIRUL ISLAM</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Go+%2B+Vue.js+Product+Builder;Node.js+%2B+Next.js+Developer;PHP+%2B+MySQL+Application+Developer;Expo+React+Native+Mobile+App+Developer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&center=true&vCenter=true&width=760&lines=Production+Mobile+App+Developer;Full+Stack+Developer;Go+%2B+Vue.js+Product+Builder;Node.js+%2B+Next.js+Developer;PHP+%2B+MySQL+Application+Developer;Expo+React+Native+Mobile+App+Developer" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -38,16 +38,37 @@ I build practical software for real users: product landing pages, web dashboards
   </tr>
   <tr>
     <td><strong>Mobile</strong></td>
-    <td>Expo React Native apps with WebView, downloads, theme settings, and native builds</td>
+    <td>Production React Native (Expo) apps shipped to Google Play, plus WebView and native build work</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud</strong></td>
+    <td>Cloudflare Workers, D1 (SQLite), serverless APIs, WebCrypto auth, deployment</td>
   </tr>
 </table>
+
+---
+
+## Live in Production
+
+### SKF Duty Calculator
+
+<a href="https://play.google.com/store/apps/details?id=com.skf.duty"><img src="https://img.shields.io/badge/Google%20Play-SKF%20Duty-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="SKF Duty on Google Play" /></a>
+
+SKF Duty Calculator is an employee shift and duty tracking mobile app live in production on Google Play (Business category). It handles day and night shift logging, minute-precision overtime calculations, leave management (SL/CL/PL), holiday handling, and salary earnings summaries. The app features monthly and yearly reports with charts, biometric app lock, shift reminders, and secure cloud synchronization.
+
+- **Minute-precision calculation engine**: Custom computation architecture with zero float drift for exact overtime and earnings calculations.
+- **Custom serverless authentication**: WebCrypto implementation featuring PBKDF2 (100k iterations) and short-lived HMAC-SHA256 JWTs with rotated refresh tokens.
+- **Cloudflare Workers & D1 backend**: Lightweight Hono REST API powered by Cloudflare D1 (SQLite) with server-side recalculations and multi-tenant user isolation (zero Firebase / zero external DB).
+- **Offline-first React Native app**: Built with Expo, TypeScript, and Zustand state management, backed by Vitest unit testing.
+
+`React Native (Expo) · TypeScript · Cloudflare Workers · Cloudflare D1`
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,nextjs,vue,php,mysql,react,ts,js,express,mongodb,postgres,docker,nginx,linux,git,github,vscode,html,css,tailwind" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,nextjs,vue,php,mysql,react,ts,js,express,mongodb,postgres,cloudflare,docker,nginx,linux,git,github,vscode,html,css,tailwind" alt="Tech stack" />
 </p>
 
 ---
@@ -56,6 +77,7 @@ I build practical software for real users: product landing pages, web dashboards
 
 | Project | Type | Stack | Role |
 | --- | --- | --- | --- |
+| [SKF Duty](https://play.google.com/store/apps/details?id=com.skf.duty) | Live production mobile app (Google Play) | React Native, Expo, TypeScript, Cloudflare Workers, Cloudflare D1 | Designed, built and shipped end-to-end by me |
 | [24scan.com](https://24scan.com) | Personal product | Next.js landing, Go backend, Vue.js dashboard frontend | Built and maintained by me |
 | [Tipster.ma](https://tipster.ma) | Company project | Node.js, Next.js | Built by me |
 | [KickoffAPI](https://kickoffapi.com) | Company project | Node.js | Backend development |
@@ -69,12 +91,17 @@ I build practical software for real users: product landing pages, web dashboards
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
+      <h3>SKF Duty Calculator</h3>
+      <p>Employee shift tracking and overtime calculation app, live in production on Google Play.</p>
+      <p><a href="https://play.google.com/store/apps/details?id=com.skf.duty">View on Google Play</a></p>
+    </td>
+    <td width="33%">
       <h3>BloodDonation</h3>
       <p>Open-source blood donation platform built with Go, Vue.js, and Docker.</p>
       <p><a href="https://github.com/iamSH4NTO/BloodDonation">View Repository</a></p>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3>CircleNetwork</h3>
       <p>Expo React Native mobile app with WebViews, file downloads, theme settings, and custom splash screen.</p>
       <p><a href="https://github.com/iamSH4NTO/CircleNetwork">View Repository</a></p>
